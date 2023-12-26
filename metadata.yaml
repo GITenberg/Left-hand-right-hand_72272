@@ -1,0 +1,39 @@
+_repo: Left-hand-right-hand_72272
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling, George Luther
+    - Schelling, George L.
+    - Schelling
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+creator:
+  author:
+    agent_name: Schmitz, James H.
+    alias: Schmitz, James Henry
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '24957'
+    url: http://www.gutenberg.org/2009/agents/24957
+    wikipedia: http://en.wikipedia.org/wiki/James_H._Schmitz
+description: ''
+gutenberg_issued: '2023-11-30'
+identifiers:
+  gutenberg: '72272'
+language: en
+pgterms:marc905: 20231118134501schmitz
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Left hand, right hand
+url: http://www.gutenberg.org/ebooks/72272
