@@ -10,6 +10,9 @@ contributor:
     birthdate: 1938
     gutenberg_agent_id: '25425'
     url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: archival
+  image_path: 72272-h/images/cover.jpg
 creator:
   author:
     agent_name: Schmitz, James H.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24957
     wikipedia: http://en.wikipedia.org/wiki/James_H._Schmitz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72272#Left-hand-right-hand
 gutenberg_issued: '2023-11-30'
 identifiers:
   gutenberg: '72272'
